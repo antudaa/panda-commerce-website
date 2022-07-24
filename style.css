@@ -1,0 +1,29 @@
+
+/* Background Color  */
+.bg-color {
+    /* background-color: #ffe0fd; */
+    background-color: #fcebfb;
+}
+.color {
+    color: #ff0da6;
+}
+
+.btn-pink-moon {
+    background: #ec008c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fc6767, #ec008c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fc6767, #ec008c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #fff;
+    border: 3px solid #eee;
+}
+
+.btn-rounded {
+    border-radius: 10px;
+}
+
+.bg-blue {
+    background-color: rgb(24, 24, 167);
+}
+
+.bg-pink {
+    background-color: rgb(184, 47, 154);
+}
